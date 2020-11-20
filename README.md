@@ -24,15 +24,14 @@ having seen your Github repository. You should clearly define the question you a
 project as well as the main highlights and/or conclusions.
 
 Rules
-
-• Your project should be original for this class
-• Your project should be individual work
-  – You can work with a group (of no more than 4 people) for data collection, but you must pose
+1. Your project should be original for this class 
+2. Your project should be individual work
+  a. You can work with a group (of no more than 4 people) for data collection, but you must pose
 your own research question
-• Your project should be original. You can be inspired by something you have seen on kaggle, Github,
+3. Your project should be original. You can be inspired by something you have seen on kaggle, Github,
 another class, work, etc. but should be original work.
-• For full points, don’t just use a readily available dataset but either:
-  – combine two or more readily available sources of data, OR
-  – collect your own data
-• #1 and #2 will be due by November 20
-• The final project will be due December 10
+4. For full points, don’t just use a readily available dataset but either:
+  a. combine two or more readily available sources of data, OR
+  b. collect your own data
+5. #1 and #2 will be due by November 20
+6. The final project will be due December 10
