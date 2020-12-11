@@ -1,4 +1,4 @@
-1. Pose a prediction question that can be answered with data and a machine learning model
+# Pose a prediction question that can be answered with data and a machine learning model
 
 # 
 
