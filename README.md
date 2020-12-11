@@ -1,4 +1,4 @@
-# Pose a prediction question that can be answered with data and a machine learning model
+# Stat 426 Project – Fall 2020
 
 # 
 
